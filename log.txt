@@ -1,0 +1,11 @@
+commit 84acefa83f9d499b7c009212a99cc271de04f983 (HEAD -> master)
+Author: Pavel <paveline@tut.by>
+Date:   Thu Feb 11 18:20:40 2021 +0300
+
+    add status.txt
+
+commit 31dafdfccd1c6ba06773d1f3636b16af26d2dafb
+Author: Pavel <paveline@tut.by>
+Date:   Thu Feb 11 18:13:17 2021 +0300
+
+    add .gitignore
